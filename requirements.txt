@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+opencv-python
+scikit-image
+scikit-learn
+pandas
+torch>=1.10
+torchvision
+tqdm
+pymaxflow
+opencv-python
